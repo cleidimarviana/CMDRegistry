@@ -1,0 +1,1 @@
+reg ADD "HKEY_CURRENT_USER\Software\Corel2" /f
